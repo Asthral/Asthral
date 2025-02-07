@@ -1,5 +1,6 @@
 ## Hi there 👋
-<a href="https://twitter.com/intent/follow?screen_name=podalirius_" rel="nofollow"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/.github/assets/twitter.png" width="24%" height="24%" style="max-width: 100%;"></a>
+<a href="..." rel="nofollow"><img src="..." width="24%" height="24%" style="max-width: 100%;"></a>
+
 <!--
 **Asthral/Asthral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
