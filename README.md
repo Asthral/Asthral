@@ -10,5 +10,5 @@
 
 <p align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/Asthral/count.svg)
+  <img src="![Visitor Count](https://profile-counter.glitch.me/Asthral/count.svg)">
 </p>
