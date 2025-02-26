@@ -9,6 +9,6 @@
 </h1>
 
 <p align="center">
-  
-  <img src="![Visitor Count](https://profile-counter.glitch.me/Asthral/count.svg)">
+  <img src="https://profile-counter.glitch.me/Asthral/count.svg" alt="Visitor Count">
 </p>
+
