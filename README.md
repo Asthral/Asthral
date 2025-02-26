@@ -9,7 +9,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asthral&label=👁%20Intrusions&color=green&style=flat-square" alt="Profile Views">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Asthral/count.svg)
 </p>
-
-![Visitor Count](https://profile-counter.glitch.me/Asthral/count.svg)
