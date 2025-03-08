@@ -5,7 +5,7 @@
 <a href="https://tryhackme.com/p/Astralh" rel="nofollow"><img src="https://github.com/Asthral/Asthral/blob/main/TryHackMe_github.png" width="33%" height="33%" style="max-width: 100%;"></a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=BBienvenue+sur+mon+profil+GitHub+%F0%9F%92%BB;Console+initialisée...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=BBienvenue+sur+mon+profil+GitHub+%F0%9F%92%BB;Console+initialisée...">
 </h1>
 
 <p align="center">
