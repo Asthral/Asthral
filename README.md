@@ -25,7 +25,8 @@
 </a>
 
 ---
-🔹 **TryHackMe**  
+🔹 **TryHackMe** 
+## Bug image not updated
 <a href="https://tryhackme.com/p/Astralh">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Astralh.png" width="350"/>
 </a>
