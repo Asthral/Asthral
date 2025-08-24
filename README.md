@@ -9,6 +9,6 @@
 </h1>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Asthral&label=PROFILE+VIEWS)
+  ![Profile_Views](https://komarev.com/ghpvc/?username=Asthral&label=PROFILE+VIEWS)
 </p>
 
