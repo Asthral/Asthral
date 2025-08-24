@@ -12,3 +12,30 @@
   <img src="https://komarev.com/ghpvc/?username=Asthral&label=PROFILE+VIEWS" alt="profil view">
 </p>
 
+<div align="center">
+
+## 🌐 Mes Profils
+
+---
+
+🔹 **Root-Me**  
+<a href="https://www.root-me.org/Astral-728472">
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Astral-728472&style=allblue&gstats=show" width="350"/>
+</a>
+
+---
+
+🔹 **Codewars**  
+<a href="https://www.codewars.com/users/Asthral">
+  <img src="https://www.codewars.com/users/Asthral/badges/large" width="350"/>
+</a>
+
+---
+
+🔹 **TryHackMe**  
+<a href="https://tryhackme.com/p/Astralh">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Astralh.png" width="350"/>
+</a>
+
+</div>
+
