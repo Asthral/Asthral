@@ -9,6 +9,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Asthral/count.svg" alt="Visitor Count">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Asthral&label=PROFILE+VIEWS)
 </p>
 
