@@ -1,4 +1,4 @@
-## 👋 🕵️ :
+## 👋 :
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%92%BB;Console+initialisée...">
