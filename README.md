@@ -10,19 +10,19 @@
 
 <div align="center">
 
-🔹 **Root-Me**  
+**Root-Me**  
 <a href="https://www.root-me.org/Astral-728472">
   <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Astral-728472&style=allblue&gstats=show" width="350"/>
 </a>
 
 ---
-🔹 **Codewars**  
+**Codewars**  
 <a href="https://www.codewars.com/users/Asthral">
   <img src="https://www.codewars.com/users/Asthral/badges/large" width="350"/>
 </a>
 
 ---
-🔹 **TryHackMe** 
+**TryHackMe** 
 ## Bug image not updated
 <a href="https://tryhackme.com/p/Astralh">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Astralh.png" width="350"/>
